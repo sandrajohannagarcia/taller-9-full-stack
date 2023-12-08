@@ -1,4 +1,4 @@
-<h1>Taller 9 Nombre_del_estudiante</h1>
+<h1>Taller 9 Sandra Johanna Garcia Ojeda</h1>
 
 <h2> Información</h2>
 
@@ -7,5 +7,7 @@
 
 <h2> Punto 1: Link figma</h2>
 
-<a href="" target="_blank">Link de Figma</a>
+<a href="https://www.figma.com/file/loYNHCtzEGDs8WxxweoPdo/SANDRA-JOHANNA-GARCIA-OJEDA?type=design&node-id=12%3A2&mode=design&t=KYg94NXV1SBni5xa-1" target="_blank">Link de Figma</a>
 
+<h2>punto 2: HTML</h2>
+<img src="./public/images/HTML.png">
