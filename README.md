@@ -10,7 +10,7 @@
 <a href="https://www.figma.com/file/loYNHCtzEGDs8WxxweoPdo/SANDRA-JOHANNA-GARCIA-OJEDA?type=design&node-id=12%3A2&mode=design&t=KYg94NXV1SBni5xa-1" target="_blank">Link de Figma</a>
 
 <h2>punto 2: HTML</h2>
-<img src="./public/images/HTML.png">
+<img src="./public/images/HTML.WEB.png">
 
 <h2> punto 3: css</h2>
 <img src="./public/images/taller-punto-1-3-index.png" alt="css">
